@@ -1,6 +1,7 @@
 ### Stack & Herramientas
 
-- **Lenguajes:** Python (NumPy, SciPy, Pandas, Matplotlib), Bash, FORTRAN
-- **Procesamiento y Modelado:** Análisis numérico, redes neuronales, procesamiento de imágenes satelitales
-- **Entorno & DevOps:** Linux, Git, Docker, SSH, Vim
-- **Documentación Técnica:** LaTeX / TikZ
+- **Lenguajes:** Python (`NumPy`, `Matplotlib`, `SciPy`, `Pandas`), Bash, FORTRAN
+- **Procesamiento de datos:** Imágenes satelitales, análisis numérico, automatización básica
+- **Herramientas:** Git, LaTeX (TikZ), conocimientos básicos de Docker, redes y SSH
+- **Sistemas:** Linux (uso cotidiano), scripting, terminal, Vim
+- **Entornos:** Jupyter Notebook, Google Colab
